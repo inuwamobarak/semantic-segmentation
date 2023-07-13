@@ -1,4 +1,3 @@
-# semantic-segmentation
 # Image Semantic Segmentation using Depth Prediction Transformers (DPTs)
 
 This repository provides an implementation of Image Semantic Segmentation using Depth Prediction Transformers (DPTs), a powerful approach for pixel-level labeling in computer vision tasks. DPTs leverage the transformer architecture and an encoder-decoder framework to capture global context, model long-range dependencies, and generate accurate segmentation maps. This readme file provides an overview of the project, installation instructions, usage examples, and contribution guidelines.
